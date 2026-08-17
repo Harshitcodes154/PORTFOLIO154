@@ -6,7 +6,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 ## 🌐 Live Demo
 
-> portfolioharshit154.netlify.app
+> https://portfolioharshit154.netlify.app
 
 ---
 
