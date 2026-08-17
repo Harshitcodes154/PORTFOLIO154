@@ -6,7 +6,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 ## 🌐 Live Demo
 
-> **AWS Learner Lab Deployment:** *(Add your deployed URL here)*
+> portfolioharshit154.netlify.app
 
 ---
 
